@@ -1,0 +1,20 @@
+{
+  "name": "characterinfo",
+  "version": "1.0.0",
+  "description": "Practice html, css and javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webChallenge": "node src/fetchEngine.js"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "randybees",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
